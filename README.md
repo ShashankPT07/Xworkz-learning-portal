@@ -20,12 +20,11 @@ A full-stack Java web application for user authentication and learning dashboard
 - Form Validation (Frontend + Backend)
 
 ## 🔹 Screenshots
-## 🔹 Screenshots
 
-![Landing](screenshots/landing.png)
-![Login](screenshots/login.png)
-![Profile](screenshots/profile.png)
-![Register](screenshots/register.png)
+![Landing](screenshot/landing.png)
+![Login](screenshot/login.png)
+![Profile](screenshot/profile.png)
+![Register](screenshot/register.png)
 
 ## 🔹 How to Run
 1. Import project in IntelliJ
